@@ -22,6 +22,9 @@ All of my certificates that I've obtained throughout the years!
 - [Certificate Preview](https://github.com/RosenYordanov2003/Certificates-Public/files/13752769/Data.Structures.Fundamentals.with.C.-.September.2023.-.Certificate.pdf)
 ### Data Structures Advanced November 2023
 - [Certificate Preview](https://github.com/RosenYordanov2003/Certificates-Public/files/13752778/Data.Structures.Advanced.with.C.-.November.2023.-.Certificate.pdf)
+### Fundamentals in Mathematics February 2024
+- [Certificate Preview](https://github.com/RosenYordanov2003/Certificates-Public/files/14946965/Fundamentals.in.Mathematics.-.February.2024.-.Certificate.pdf)
+
 
 
 
