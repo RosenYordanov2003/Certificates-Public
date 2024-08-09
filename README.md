@@ -24,7 +24,7 @@ All of my certificates that I've obtained throughout the years!
 -  [Certificate Preview](https://github.com/RosenYordanov2003/Certificates-Public/files/13752778/Data.Structures.Advanced.with.C.-.November.2023.-.Certificate.pdf)
 ### Fundamentals in Mathematics February 2024
 - [Certificate Preview](https://github.com/RosenYordanov2003/Certificates-Public/files/14946965/Fundamentals.in.Mathematics.-.February.2024.-.Certificate.pdf)
-## MS SQL
+### MS SQL
 - [Certificate Preview](https://github.com/user-attachments/assets/e12a06db-c50d-454e-9d0e-34607c0ea2fe)
 ### Entity Framework Core
 - [Certificate Preview](https://github.com/user-attachments/assets/f5b0156f-2f1c-446f-a3d3-e5c404c50b85)
