@@ -1,3 +1,6 @@
+## SoftUni Diploma
+- [Diploma Preview](https://github.com/user-attachments/files/17081240/Diploma.for.C.Web.Developer.pdf)
+
 # Certificates-Public
 All of my certificates that I've obtained throughout the years!
 
